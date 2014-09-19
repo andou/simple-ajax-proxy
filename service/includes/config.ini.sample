@@ -1,0 +1,6 @@
+[core]
+qstring_parameter = "q"
+
+[service]
+remote_address = ''
+content_type = 'application/xml'
